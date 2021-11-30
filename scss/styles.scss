@@ -1,0 +1,19 @@
+/*variables generales*/
+@import 'base/fuentes';
+@import 'base/mixins';
+@import 'base/globales';
+@import 'base/animaciones';
+
+/** Diseño de las paginas **/
+@import 'paginas/header';
+@import 'paginas/footer';
+@import 'paginas/navegacion';
+@import 'paginas/iconos';
+@import 'paginas/anuncios';
+@import 'paginas/index-contacto';
+@import 'paginas/index-blog';
+@import 'paginas/testimoniales';
+@import 'paginas/formularios';
+@import 'paginas/nosotros';
+
+

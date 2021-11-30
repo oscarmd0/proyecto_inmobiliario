@@ -1,0 +1,56 @@
+.animacionH1{
+    font-weight: 900;
+    font-size: 3.5em;
+}
+.ml10 {
+    position: relative;
+    font-weight: 900;
+    font-size: 2.5em;
+  }
+  
+  .ml10 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml10 .letter {
+    display: inline-block;
+    line-height: 1em;
+    transform-origin: 0 0;
+  }
+
+  .ml12 {
+    font-weight: 200;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+  }
+  
+  .ml12 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+
+  .fadeInUp{
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation: fadeInUp;
+    animation-duration: 2s;
+    overflow: hidden;
+  }
+  /*carrusel*/
+  .carousel-inner img {
+    width: 100%;
+    height: 50%;
+  }
+
+  .carrusel{
+    width: 60%;
+    max-width: 120rem;
+    margin: 0 auto;
+}
